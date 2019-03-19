@@ -1,0 +1,1250 @@
+2019-02-07_15:34:15 Hideki_30_1 T: 3.1 H: 69
+2019-02-07_15:34:15 Hideki_30_1 battery: ok
+2019-02-07_15:34:15 Hideki_30_1 batteryState: ok
+2019-02-07_15:34:15 Hideki_30_1 channel: 1
+2019-02-07_15:34:15 Hideki_30_1 temperature: 3.1
+2019-02-07_15:34:15 Hideki_30_1 package_number: 3
+2019-02-07_15:34:15 Hideki_30_1 humidity: 69
+2019-02-07_15:34:15 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-07_15:40:42 Hideki_30_1 T: 2.9 H: 71
+2019-02-07_15:40:42 Hideki_30_1 battery: ok
+2019-02-07_15:40:42 Hideki_30_1 batteryState: ok
+2019-02-07_15:40:42 Hideki_30_1 channel: 1
+2019-02-07_15:40:42 Hideki_30_1 temperature: 2.9
+2019-02-07_15:40:42 Hideki_30_1 package_number: 3
+2019-02-07_15:40:42 Hideki_30_1 humidity: 71
+2019-02-07_15:40:42 Hideki_30_1 comfort_level: Wet. More than 69% RH
+2019-02-07_15:45:43 Hideki_30_1 T: 2.8 H: 71
+2019-02-07_15:45:43 Hideki_30_1 battery: ok
+2019-02-07_15:45:43 Hideki_30_1 batteryState: ok
+2019-02-07_15:45:43 Hideki_30_1 channel: 1
+2019-02-07_15:45:43 Hideki_30_1 temperature: 2.8
+2019-02-07_15:45:43 Hideki_30_1 package_number: 1
+2019-02-07_15:45:43 Hideki_30_1 humidity: 71
+2019-02-07_15:45:43 Hideki_30_1 comfort_level: Wet. More than 69% RH
+2019-02-07_15:49:18 Hideki_30_1 package_number: 3
+2019-02-16_11:29:33 Hideki_30_1 T: 10.8 H: 62
+2019-02-16_11:29:33 Hideki_30_1 battery: ok
+2019-02-16_11:29:33 Hideki_30_1 batteryState: ok
+2019-02-16_11:29:33 Hideki_30_1 channel: 1
+2019-02-16_11:29:33 Hideki_30_1 temperature: 10.8
+2019-02-16_11:29:33 Hideki_30_1 package_number: 1
+2019-02-16_11:29:33 Hideki_30_1 humidity: 62
+2019-02-16_11:29:33 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_11:36:00 Hideki_30_1 T: 11.5 H: 62
+2019-02-16_11:36:00 Hideki_30_1 battery: ok
+2019-02-16_11:36:00 Hideki_30_1 batteryState: ok
+2019-02-16_11:36:00 Hideki_30_1 channel: 1
+2019-02-16_11:36:00 Hideki_30_1 temperature: 11.5
+2019-02-16_11:36:00 Hideki_30_1 package_number: 1
+2019-02-16_11:36:00 Hideki_30_1 humidity: 62
+2019-02-16_11:36:00 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_11:36:44 Hideki_30_1 T: 11.7 H: 62
+2019-02-16_11:36:44 Hideki_30_1 temperature: 11.7
+2019-02-16_11:36:44 Hideki_30_1 package_number: 3
+2019-02-16_11:39:36 Hideki_30_1 T: 12.1 H: 62
+2019-02-16_11:39:36 Hideki_30_1 temperature: 12.1
+2019-02-16_11:42:27 Hideki_30_1 T: 12.5 H: 62
+2019-02-16_11:42:27 Hideki_30_1 battery: ok
+2019-02-16_11:42:27 Hideki_30_1 batteryState: ok
+2019-02-16_11:42:27 Hideki_30_1 channel: 1
+2019-02-16_11:42:27 Hideki_30_1 temperature: 12.5
+2019-02-16_11:42:27 Hideki_30_1 package_number: 1
+2019-02-16_11:42:27 Hideki_30_1 humidity: 62
+2019-02-16_11:42:27 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_11:43:53 Hideki_30_1 T: 12.6 H: 61
+2019-02-16_11:43:53 Hideki_30_1 temperature: 12.6
+2019-02-16_11:43:53 Hideki_30_1 humidity: 61
+2019-02-16_11:44:36 Hideki_30_1 T: 12.7 H: 61
+2019-02-16_11:44:36 Hideki_30_1 temperature: 12.7
+2019-02-16_11:48:11 Hideki_30_1 T: 13.1 H: 60
+2019-02-16_11:48:11 Hideki_30_1 battery: ok
+2019-02-16_11:48:11 Hideki_30_1 batteryState: ok
+2019-02-16_11:48:11 Hideki_30_1 channel: 1
+2019-02-16_11:48:11 Hideki_30_1 temperature: 13.1
+2019-02-16_11:48:11 Hideki_30_1 package_number: 1
+2019-02-16_11:48:11 Hideki_30_1 humidity: 60
+2019-02-16_11:48:11 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_11:48:55 Hideki_30_1 T: 13.2 H: 60
+2019-02-16_11:48:55 Hideki_30_1 temperature: 13.2
+2019-02-16_11:48:55 Hideki_30_1 package_number: 3
+2019-02-16_12:00:23 Hideki_30_1 T: 14 H: 59
+2019-02-16_12:00:23 Hideki_30_1 battery: ok
+2019-02-16_12:00:23 Hideki_30_1 batteryState: ok
+2019-02-16_12:00:23 Hideki_30_1 channel: 1
+2019-02-16_12:00:23 Hideki_30_1 temperature: 14
+2019-02-16_12:00:23 Hideki_30_1 package_number: 3
+2019-02-16_12:00:23 Hideki_30_1 humidity: 59
+2019-02-16_12:00:23 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_12:02:31 Hideki_30_1 T: 14.2 H: 59
+2019-02-16_12:02:31 Hideki_30_1 temperature: 14.2
+2019-02-16_12:02:31 Hideki_30_1 package_number: 1
+2019-02-16_12:02:32 Hideki_30_1 package_number: 3
+2019-02-16_12:03:14 Hideki_30_1 T: 14.3 H: 59
+2019-02-16_12:03:14 Hideki_30_1 temperature: 14.3
+2019-02-16_12:03:14 Hideki_30_1 package_number: 1
+2019-02-16_12:04:41 Hideki_30_1 T: 14.4 H: 59
+2019-02-16_12:04:41 Hideki_30_1 temperature: 14.4
+2019-02-16_12:04:41 Hideki_30_1 package_number: 3
+2019-02-16_12:05:24 Hideki_30_1 battery: ok
+2019-02-16_12:05:24 Hideki_30_1 batteryState: ok
+2019-02-16_12:05:24 Hideki_30_1 channel: 1
+2019-02-16_12:05:24 Hideki_30_1 humidity: 59
+2019-02-16_12:05:24 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_12:09:41 Hideki_30_1 T: 14.6 H: 59
+2019-02-16_12:09:41 Hideki_30_1 temperature: 14.6
+2019-02-16_12:09:41 Hideki_30_1 package_number: 1
+2019-02-16_12:12:33 Hideki_30_1 T: 15 H: 59
+2019-02-16_12:12:33 Hideki_30_1 battery: ok
+2019-02-16_12:12:33 Hideki_30_1 batteryState: ok
+2019-02-16_12:12:33 Hideki_30_1 channel: 1
+2019-02-16_12:12:33 Hideki_30_1 temperature: 15
+2019-02-16_12:12:33 Hideki_30_1 humidity: 59
+2019-02-16_12:12:33 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_12:13:17 Hideki_30_1 package_number: 3
+2019-02-16_12:16:52 Hideki_30_1 T: 15.4 H: 59
+2019-02-16_12:16:52 Hideki_30_1 temperature: 15.4
+2019-02-16_12:21:09 Hideki_30_1 T: 15.5 H: 58
+2019-02-16_12:21:09 Hideki_30_1 battery: ok
+2019-02-16_12:21:09 Hideki_30_1 batteryState: ok
+2019-02-16_12:21:09 Hideki_30_1 channel: 1
+2019-02-16_12:21:09 Hideki_30_1 temperature: 15.5
+2019-02-16_12:21:09 Hideki_30_1 package_number: 1
+2019-02-16_12:21:09 Hideki_30_1 humidity: 58
+2019-02-16_12:21:09 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_12:21:52 Hideki_30_1 T: 15.6 H: 58
+2019-02-16_12:21:52 Hideki_30_1 temperature: 15.6
+2019-02-16_12:25:28 Hideki_30_1 T: 15.7 H: 58
+2019-02-16_12:25:28 Hideki_30_1 temperature: 15.7
+2019-02-16_12:25:28 Hideki_30_1 package_number: 3
+2019-02-16_12:26:10 Hideki_30_1 battery: ok
+2019-02-16_12:26:10 Hideki_30_1 batteryState: ok
+2019-02-16_12:26:10 Hideki_30_1 channel: 1
+2019-02-16_12:26:10 Hideki_30_1 package_number: 1
+2019-02-16_12:26:10 Hideki_30_1 humidity: 58
+2019-02-16_12:26:10 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_12:26:54 Hideki_30_1 T: 15.8 H: 57
+2019-02-16_12:26:54 Hideki_30_1 temperature: 15.8
+2019-02-16_12:26:54 Hideki_30_1 package_number: 3
+2019-02-16_12:26:54 Hideki_30_1 humidity: 57
+2019-02-16_12:28:19 Hideki_30_1 package_number: 1
+2019-02-16_12:29:03 Hideki_30_1 package_number: 3
+2019-02-16_12:34:04 Hideki_30_1 T: 15.9 H: 57
+2019-02-16_12:34:04 Hideki_30_1 battery: ok
+2019-02-16_12:34:04 Hideki_30_1 batteryState: ok
+2019-02-16_12:34:04 Hideki_30_1 channel: 1
+2019-02-16_12:34:04 Hideki_30_1 temperature: 15.9
+2019-02-16_12:34:04 Hideki_30_1 package_number: 3
+2019-02-16_12:34:04 Hideki_30_1 humidity: 57
+2019-02-16_12:34:04 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_12:44:05 Hideki_30_1 T: 16.5 H: 56
+2019-02-16_12:44:05 Hideki_30_1 battery: ok
+2019-02-16_12:44:05 Hideki_30_1 batteryState: ok
+2019-02-16_12:44:05 Hideki_30_1 channel: 1
+2019-02-16_12:44:05 Hideki_30_1 temperature: 16.5
+2019-02-16_12:44:05 Hideki_30_1 package_number: 1
+2019-02-16_12:44:05 Hideki_30_1 humidity: 56
+2019-02-16_12:44:05 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_12:44:06 Hideki_30_1 package_number: 3
+2019-02-16_12:44:48 Hideki_30_1 package_number: 1
+2019-02-16_12:49:06 Hideki_30_1 T: 16.8 H: 56
+2019-02-16_12:49:06 Hideki_30_1 battery: ok
+2019-02-16_12:49:06 Hideki_30_1 batteryState: ok
+2019-02-16_12:49:06 Hideki_30_1 channel: 1
+2019-02-16_12:49:06 Hideki_30_1 temperature: 16.8
+2019-02-16_12:49:06 Hideki_30_1 humidity: 56
+2019-02-16_12:49:06 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_12:51:15 Hideki_30_1 T: 17 H: 56
+2019-02-16_12:51:15 Hideki_30_1 temperature: 17
+2019-02-16_12:51:15 Hideki_30_1 package_number: 1
+2019-02-16_12:58:25 Hideki_30_1 T: 17.3 H: 56
+2019-02-16_12:58:25 Hideki_30_1 battery: ok
+2019-02-16_12:58:25 Hideki_30_1 batteryState: ok
+2019-02-16_12:58:25 Hideki_30_1 channel: 1
+2019-02-16_12:58:25 Hideki_30_1 temperature: 17.3
+2019-02-16_12:58:25 Hideki_30_1 package_number: 1
+2019-02-16_12:58:25 Hideki_30_1 humidity: 56
+2019-02-16_12:58:25 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_13:03:27 Hideki_30_1 T: 17.9 H: 56
+2019-02-16_13:03:27 Hideki_30_1 battery: ok
+2019-02-16_13:03:27 Hideki_30_1 batteryState: ok
+2019-02-16_13:03:27 Hideki_30_1 channel: 1
+2019-02-16_13:03:27 Hideki_30_1 temperature: 17.9
+2019-02-16_13:03:27 Hideki_30_1 package_number: 3
+2019-02-16_13:03:27 Hideki_30_1 humidity: 56
+2019-02-16_13:03:27 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_13:04:09 Hideki_30_1 package_number: 1
+2019-02-16_13:12:02 Hideki_30_1 T: 18.2 H: 55
+2019-02-16_13:12:02 Hideki_30_1 battery: ok
+2019-02-16_13:12:02 Hideki_30_1 batteryState: ok
+2019-02-16_13:12:02 Hideki_30_1 channel: 1
+2019-02-16_13:12:02 Hideki_30_1 temperature: 18.2
+2019-02-16_13:12:02 Hideki_30_1 package_number: 1
+2019-02-16_13:12:02 Hideki_30_1 humidity: 55
+2019-02-16_13:12:02 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_13:21:22 Hideki_30_1 T: 18.7 H: 54
+2019-02-16_13:21:22 Hideki_30_1 battery: ok
+2019-02-16_13:21:22 Hideki_30_1 batteryState: ok
+2019-02-16_13:21:22 Hideki_30_1 channel: 1
+2019-02-16_13:21:22 Hideki_30_1 temperature: 18.7
+2019-02-16_13:21:22 Hideki_30_1 package_number: 3
+2019-02-16_13:21:22 Hideki_30_1 humidity: 54
+2019-02-16_13:21:22 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_13:22:04 Hideki_30_1 package_number: 1
+2019-02-16_13:27:48 Hideki_30_1 T: 18.9 H: 54
+2019-02-16_13:27:48 Hideki_30_1 battery: ok
+2019-02-16_13:27:48 Hideki_30_1 batteryState: ok
+2019-02-16_13:27:48 Hideki_30_1 channel: 1
+2019-02-16_13:27:48 Hideki_30_1 temperature: 18.9
+2019-02-16_13:27:48 Hideki_30_1 package_number: 1
+2019-02-16_13:27:48 Hideki_30_1 humidity: 54
+2019-02-16_13:27:48 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_13:27:49 Hideki_30_1 package_number: 3
+2019-02-16_13:30:40 Hideki_30_1 T: 19.1 H: 54
+2019-02-16_13:30:40 Hideki_30_1 temperature: 19.1
+2019-02-16_13:30:40 Hideki_30_1 package_number: 1
+2019-02-16_13:31:24 Hideki_30_1 T: 19.2 H: 54
+2019-02-16_13:31:24 Hideki_30_1 temperature: 19.2
+2019-02-16_13:31:24 Hideki_30_1 package_number: 3
+2019-02-16_13:32:06 Hideki_30_1 package_number: 1
+2019-02-16_13:33:32 Hideki_30_1 battery: ok
+2019-02-16_13:33:32 Hideki_30_1 batteryState: ok
+2019-02-16_13:33:32 Hideki_30_1 channel: 1
+2019-02-16_13:33:32 Hideki_30_1 humidity: 54
+2019-02-16_13:33:32 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_13:33:33 Hideki_30_1 package_number: 3
+2019-02-16_13:37:08 Hideki_30_1 T: 19.6 H: 54
+2019-02-16_13:37:08 Hideki_30_1 temperature: 19.6
+2019-02-16_13:48:36 Hideki_30_1 T: 20.8 H: 54
+2019-02-16_13:48:36 Hideki_30_1 battery: ok
+2019-02-16_13:48:36 Hideki_30_1 batteryState: ok
+2019-02-16_13:48:36 Hideki_30_1 channel: 1
+2019-02-16_13:48:36 Hideki_30_1 temperature: 20.8
+2019-02-16_13:48:36 Hideki_30_1 package_number: 3
+2019-02-16_13:48:36 Hideki_30_1 humidity: 54
+2019-02-16_13:48:36 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_13:57:55 Hideki_30_1 T: 21.6 H: 52
+2019-02-16_13:57:55 Hideki_30_1 battery: ok
+2019-02-16_13:57:55 Hideki_30_1 batteryState: ok
+2019-02-16_13:57:55 Hideki_30_1 channel: 1
+2019-02-16_13:57:55 Hideki_30_1 temperature: 21.6
+2019-02-16_13:57:55 Hideki_30_1 package_number: 3
+2019-02-16_13:57:55 Hideki_30_1 humidity: 52
+2019-02-16_13:57:55 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:01:29 Hideki_30_1 package_number: 1
+2019-02-16_14:07:14 Hideki_30_1 T: 21.7 H: 52
+2019-02-16_14:07:14 Hideki_30_1 battery: ok
+2019-02-16_14:07:14 Hideki_30_1 batteryState: ok
+2019-02-16_14:07:14 Hideki_30_1 channel: 1
+2019-02-16_14:07:14 Hideki_30_1 temperature: 21.7
+2019-02-16_14:07:14 Hideki_30_1 package_number: 3
+2019-02-16_14:07:14 Hideki_30_1 humidity: 52
+2019-02-16_14:07:14 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:12:58 Hideki_30_1 T: 22 H: 52
+2019-02-16_14:12:58 Hideki_30_1 battery: ok
+2019-02-16_14:12:58 Hideki_30_1 batteryState: ok
+2019-02-16_14:12:58 Hideki_30_1 channel: 1
+2019-02-16_14:12:58 Hideki_30_1 temperature: 22
+2019-02-16_14:12:58 Hideki_30_1 package_number: 3
+2019-02-16_14:12:58 Hideki_30_1 humidity: 52
+2019-02-16_14:12:58 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:21:34 Hideki_30_1 T: 22.2 H: 52
+2019-02-16_14:21:34 Hideki_30_1 battery: ok
+2019-02-16_14:21:34 Hideki_30_1 batteryState: ok
+2019-02-16_14:21:34 Hideki_30_1 channel: 1
+2019-02-16_14:21:34 Hideki_30_1 temperature: 22.2
+2019-02-16_14:21:34 Hideki_30_1 package_number: 3
+2019-02-16_14:21:34 Hideki_30_1 humidity: 52
+2019-02-16_14:21:34 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:28:00 Hideki_30_1 T: 22.3 H: 51
+2019-02-16_14:28:00 Hideki_30_1 battery: ok
+2019-02-16_14:28:00 Hideki_30_1 batteryState: ok
+2019-02-16_14:28:00 Hideki_30_1 channel: 1
+2019-02-16_14:28:00 Hideki_30_1 temperature: 22.3
+2019-02-16_14:28:00 Hideki_30_1 package_number: 1
+2019-02-16_14:28:00 Hideki_30_1 humidity: 51
+2019-02-16_14:28:00 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:29:26 Hideki_30_1 T: 22.4 H: 51
+2019-02-16_14:29:26 Hideki_30_1 temperature: 22.4
+2019-02-16_14:30:53 Hideki_30_1 T: 22.5 H: 51
+2019-02-16_14:30:53 Hideki_30_1 temperature: 22.5
+2019-02-16_14:30:53 Hideki_30_1 package_number: 3
+2019-02-16_14:33:44 Hideki_30_1 T: 22.7 H: 51
+2019-02-16_14:33:44 Hideki_30_1 battery: ok
+2019-02-16_14:33:44 Hideki_30_1 batteryState: ok
+2019-02-16_14:33:44 Hideki_30_1 channel: 1
+2019-02-16_14:33:44 Hideki_30_1 temperature: 22.7
+2019-02-16_14:33:44 Hideki_30_1 package_number: 1
+2019-02-16_14:33:44 Hideki_30_1 humidity: 51
+2019-02-16_14:33:44 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:35:54 Hideki_30_1 T: 22.8 H: 51
+2019-02-16_14:35:54 Hideki_30_1 temperature: 22.8
+2019-02-16_14:35:54 Hideki_30_1 package_number: 3
+2019-02-16_14:40:11 Hideki_30_1 T: 23.3 H: 49
+2019-02-16_14:40:11 Hideki_30_1 battery: ok
+2019-02-16_14:40:11 Hideki_30_1 batteryState: ok
+2019-02-16_14:40:11 Hideki_30_1 channel: 1
+2019-02-16_14:40:11 Hideki_30_1 temperature: 23.3
+2019-02-16_14:40:11 Hideki_30_1 package_number: 1
+2019-02-16_14:40:11 Hideki_30_1 humidity: 49
+2019-02-16_14:40:11 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:41:37 Hideki_30_1 T: 23.4 H: 49
+2019-02-16_14:41:37 Hideki_30_1 temperature: 23.4
+2019-02-16_14:45:56 Hideki_30_1 T: 23.7 H: 49
+2019-02-16_14:45:56 Hideki_30_1 battery: ok
+2019-02-16_14:45:56 Hideki_30_1 batteryState: ok
+2019-02-16_14:45:56 Hideki_30_1 channel: 1
+2019-02-16_14:45:56 Hideki_30_1 temperature: 23.7
+2019-02-16_14:45:56 Hideki_30_1 package_number: 3
+2019-02-16_14:45:56 Hideki_30_1 humidity: 49
+2019-02-16_14:45:56 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:47:21 Hideki_30_1 T: 23.8 H: 49
+2019-02-16_14:47:21 Hideki_30_1 temperature: 23.8
+2019-02-16_14:47:21 Hideki_30_1 package_number: 1
+2019-02-16_14:49:31 Hideki_30_1 T: 23.7 H: 49
+2019-02-16_14:49:31 Hideki_30_1 temperature: 23.7
+2019-02-16_14:49:31 Hideki_30_1 package_number: 3
+2019-02-16_14:51:39 Hideki_30_1 T: 23.4 H: 49
+2019-02-16_14:51:39 Hideki_30_1 battery: ok
+2019-02-16_14:51:39 Hideki_30_1 batteryState: ok
+2019-02-16_14:51:39 Hideki_30_1 channel: 1
+2019-02-16_14:51:39 Hideki_30_1 temperature: 23.4
+2019-02-16_14:51:39 Hideki_30_1 package_number: 1
+2019-02-16_14:51:39 Hideki_30_1 humidity: 49
+2019-02-16_14:51:39 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:51:40 Hideki_30_1 package_number: 3
+2019-02-16_14:56:40 Hideki_30_1 T: 23.1 H: 49
+2019-02-16_14:56:40 Hideki_30_1 battery: ok
+2019-02-16_14:56:40 Hideki_30_1 batteryState: ok
+2019-02-16_14:56:40 Hideki_30_1 channel: 1
+2019-02-16_14:56:40 Hideki_30_1 temperature: 23.1
+2019-02-16_14:56:40 Hideki_30_1 package_number: 1
+2019-02-16_14:56:40 Hideki_30_1 humidity: 49
+2019-02-16_14:56:40 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_14:58:49 Hideki_30_1 T: 23 H: 49
+2019-02-16_14:58:49 Hideki_30_1 temperature: 23
+2019-02-16_14:58:50 Hideki_30_1 package_number: 3
+2019-02-16_15:00:16 Hideki_30_1 T: 22.9 H: 49
+2019-02-16_15:00:16 Hideki_30_1 temperature: 22.9
+2019-02-16_15:02:25 Hideki_30_1 T: 23 H: 49
+2019-02-16_15:02:25 Hideki_30_1 battery: ok
+2019-02-16_15:02:25 Hideki_30_1 batteryState: ok
+2019-02-16_15:02:25 Hideki_30_1 channel: 1
+2019-02-16_15:02:25 Hideki_30_1 temperature: 23
+2019-02-16_15:02:25 Hideki_30_1 humidity: 49
+2019-02-16_15:02:25 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:05:59 Hideki_30_1 T: 23.2 H: 48
+2019-02-16_15:05:59 Hideki_30_1 temperature: 23.2
+2019-02-16_15:05:59 Hideki_30_1 package_number: 1
+2019-02-16_15:05:59 Hideki_30_1 humidity: 48
+2019-02-16_15:10:17 Hideki_30_1 battery: ok
+2019-02-16_15:10:17 Hideki_30_1 batteryState: ok
+2019-02-16_15:10:17 Hideki_30_1 channel: 1
+2019-02-16_15:10:17 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:13:10 Hideki_30_1 T: 23.2 H: 48
+2019-02-16_15:13:10 Hideki_30_1 temperature: 23.2
+2019-02-16_15:13:10 Hideki_30_1 package_number: 3
+2019-02-16_15:13:10 Hideki_30_1 humidity: 48
+2019-02-16_15:15:18 Hideki_30_1 battery: ok
+2019-02-16_15:15:18 Hideki_30_1 batteryState: ok
+2019-02-16_15:15:18 Hideki_30_1 channel: 1
+2019-02-16_15:15:18 Hideki_30_1 package_number: 1
+2019-02-16_15:15:18 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:15:19 Hideki_30_1 package_number: 3
+2019-02-16_15:16:01 Hideki_30_1 T: 23.1 H: 48
+2019-02-16_15:16:01 Hideki_30_1 temperature: 23.1
+2019-02-16_15:16:01 Hideki_30_1 package_number: 1
+2019-02-16_15:17:27 Hideki_30_1 T: 23 H: 48
+2019-02-16_15:17:27 Hideki_30_1 temperature: 23
+2019-02-16_15:18:11 Hideki_30_1 T: 22.9 H: 48
+2019-02-16_15:18:11 Hideki_30_1 temperature: 22.9
+2019-02-16_15:18:11 Hideki_30_1 package_number: 3
+2019-02-16_15:18:11 Hideki_30_1 humidity: 48
+2019-02-16_15:21:03 Hideki_30_1 T: 22.8 H: 48
+2019-02-16_15:21:03 Hideki_30_1 battery: ok
+2019-02-16_15:21:03 Hideki_30_1 batteryState: ok
+2019-02-16_15:21:03 Hideki_30_1 channel: 1
+2019-02-16_15:21:03 Hideki_30_1 temperature: 22.8
+2019-02-16_15:21:03 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:26:46 Hideki_30_1 T: 22.5 H: 48
+2019-02-16_15:26:46 Hideki_30_1 battery: ok
+2019-02-16_15:26:46 Hideki_30_1 batteryState: ok
+2019-02-16_15:26:46 Hideki_30_1 channel: 1
+2019-02-16_15:26:46 Hideki_30_1 temperature: 22.5
+2019-02-16_15:26:46 Hideki_30_1 package_number: 1
+2019-02-16_15:26:46 Hideki_30_1 humidity: 48
+2019-02-16_15:26:46 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:27:30 Hideki_30_1 T: 22.4 H: 48
+2019-02-16_15:27:30 Hideki_30_1 temperature: 22.4
+2019-02-16_15:27:30 Hideki_30_1 package_number: 3
+2019-02-16_15:29:38 Hideki_30_1 T: 22.2 H: 48
+2019-02-16_15:29:38 Hideki_30_1 temperature: 22.2
+2019-02-16_15:29:38 Hideki_30_1 package_number: 1
+2019-02-16_15:35:23 Hideki_30_1 T: 21.8 H: 48
+2019-02-16_15:35:23 Hideki_30_1 battery: ok
+2019-02-16_15:35:23 Hideki_30_1 batteryState: ok
+2019-02-16_15:35:23 Hideki_30_1 channel: 1
+2019-02-16_15:35:23 Hideki_30_1 temperature: 21.8
+2019-02-16_15:35:23 Hideki_30_1 package_number: 3
+2019-02-16_15:35:23 Hideki_30_1 humidity: 48
+2019-02-16_15:35:23 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:40:24 Hideki_30_1 T: 21.4 H: 48
+2019-02-16_15:40:24 Hideki_30_1 battery: ok
+2019-02-16_15:40:24 Hideki_30_1 batteryState: ok
+2019-02-16_15:40:24 Hideki_30_1 channel: 1
+2019-02-16_15:40:24 Hideki_30_1 temperature: 21.4
+2019-02-16_15:40:24 Hideki_30_1 package_number: 3
+2019-02-16_15:40:24 Hideki_30_1 humidity: 48
+2019-02-16_15:40:24 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:46:50 Hideki_30_1 T: 21.1 H: 48
+2019-02-16_15:46:50 Hideki_30_1 battery: ok
+2019-02-16_15:46:50 Hideki_30_1 batteryState: ok
+2019-02-16_15:46:50 Hideki_30_1 channel: 1
+2019-02-16_15:46:50 Hideki_30_1 temperature: 21.1
+2019-02-16_15:46:50 Hideki_30_1 package_number: 1
+2019-02-16_15:46:50 Hideki_30_1 humidity: 48
+2019-02-16_15:46:50 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:48:59 Hideki_30_1 T: 21 H: 48
+2019-02-16_15:48:59 Hideki_30_1 temperature: 21
+2019-02-16_15:51:52 Hideki_30_1 T: 20.9 H: 48
+2019-02-16_15:51:52 Hideki_30_1 battery: ok
+2019-02-16_15:51:52 Hideki_30_1 batteryState: ok
+2019-02-16_15:51:52 Hideki_30_1 channel: 1
+2019-02-16_15:51:52 Hideki_30_1 temperature: 20.9
+2019-02-16_15:51:52 Hideki_30_1 package_number: 3
+2019-02-16_15:51:52 Hideki_30_1 humidity: 48
+2019-02-16_15:51:52 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:56:52 Hideki_30_1 T: 20.6 H: 48
+2019-02-16_15:56:52 Hideki_30_1 battery: ok
+2019-02-16_15:56:52 Hideki_30_1 batteryState: ok
+2019-02-16_15:56:52 Hideki_30_1 channel: 1
+2019-02-16_15:56:52 Hideki_30_1 temperature: 20.6
+2019-02-16_15:56:52 Hideki_30_1 package_number: 1
+2019-02-16_15:56:52 Hideki_30_1 humidity: 48
+2019-02-16_15:56:52 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_15:58:18 Hideki_30_1 T: 20.5 H: 48
+2019-02-16_15:58:18 Hideki_30_1 temperature: 20.5
+2019-02-16_16:01:11 Hideki_30_1 T: 20.5 H: 49
+2019-02-16_16:01:11 Hideki_30_1 package_number: 3
+2019-02-16_16:01:11 Hideki_30_1 humidity: 49
+2019-02-16_16:01:53 Hideki_30_1 battery: ok
+2019-02-16_16:01:53 Hideki_30_1 batteryState: ok
+2019-02-16_16:01:53 Hideki_30_1 channel: 1
+2019-02-16_16:01:53 Hideki_30_1 package_number: 1
+2019-02-16_16:01:53 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_16:02:36 Hideki_30_1 T: 20.4 H: 49
+2019-02-16_16:02:36 Hideki_30_1 temperature: 20.4
+2019-02-16_16:06:12 Hideki_30_1 T: 20.3 H: 49
+2019-02-16_16:06:12 Hideki_30_1 temperature: 20.3
+2019-02-16_16:06:12 Hideki_30_1 package_number: 3
+2019-02-16_16:06:12 Hideki_30_1 humidity: 49
+2019-02-16_16:07:37 Hideki_30_1 battery: ok
+2019-02-16_16:07:37 Hideki_30_1 batteryState: ok
+2019-02-16_16:07:37 Hideki_30_1 channel: 1
+2019-02-16_16:07:37 Hideki_30_1 package_number: 1
+2019-02-16_16:07:37 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_16:09:04 Hideki_30_1 T: 20.2 H: 48
+2019-02-16_16:09:04 Hideki_30_1 temperature: 20.2
+2019-02-16_16:09:04 Hideki_30_1 package_number: 3
+2019-02-16_16:09:04 Hideki_30_1 humidity: 48
+2019-02-16_16:09:46 Hideki_30_1 package_number: 1
+2019-02-16_16:11:13 Hideki_30_1 package_number: 3
+2019-02-16_16:12:38 Hideki_30_1 T: 20.1 H: 48
+2019-02-16_16:12:38 Hideki_30_1 battery: ok
+2019-02-16_16:12:38 Hideki_30_1 batteryState: ok
+2019-02-16_16:12:38 Hideki_30_1 channel: 1
+2019-02-16_16:12:38 Hideki_30_1 temperature: 20.1
+2019-02-16_16:12:38 Hideki_30_1 package_number: 1
+2019-02-16_16:12:38 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-16_16:13:22 Hideki_30_1 package_number: 3
+2019-02-16_16:15:31 Hideki_30_1 T: 20 H: 48
+2019-02-16_16:15:31 Hideki_30_1 temperature: 20
+2019-02-16_16:15:31 Hideki_30_1 humidity: 48
+2019-02-16_16:19:06 Hideki_30_1 T: 19.7 H: 49
+2019-02-16_16:19:06 Hideki_30_1 battery: ok
+2019-02-16_16:19:06 Hideki_30_1 batteryState: ok
+2019-02-16_16:19:06 Hideki_30_1 channel: 1
+2019-02-16_16:19:06 Hideki_30_1 temperature: 19.7
+2019-02-16_16:19:06 Hideki_30_1 package_number: 3
+2019-02-16_16:19:06 Hideki_30_1 humidity: 49
+2019-02-16_16:19:06 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_16:20:31 Hideki_30_1 package_number: 1
+2019-02-16_16:21:15 Hideki_30_1 T: 19.6 H: 49
+2019-02-16_16:21:15 Hideki_30_1 temperature: 19.6
+2019-02-16_16:21:15 Hideki_30_1 package_number: 3
+2019-02-16_16:26:15 Hideki_30_1 T: 19.3 H: 49
+2019-02-16_16:26:15 Hideki_30_1 battery: ok
+2019-02-16_16:26:15 Hideki_30_1 batteryState: ok
+2019-02-16_16:26:15 Hideki_30_1 channel: 1
+2019-02-16_16:26:15 Hideki_30_1 temperature: 19.3
+2019-02-16_16:26:15 Hideki_30_1 package_number: 1
+2019-02-16_16:26:15 Hideki_30_1 humidity: 49
+2019-02-16_16:26:15 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_16:26:58 Hideki_30_1 T: 19.2 H: 49
+2019-02-16_16:26:58 Hideki_30_1 temperature: 19.2
+2019-02-16_16:29:51 Hideki_30_1 T: 19.1 H: 48
+2019-02-16_16:29:51 Hideki_30_1 temperature: 19.1
+2019-02-16_16:29:51 Hideki_30_1 package_number: 3
+2019-02-16_16:29:51 Hideki_30_1 humidity: 48
+2019-02-16_16:32:43 Hideki_30_1 T: 18.8 H: 49
+2019-02-16_16:32:43 Hideki_30_1 battery: ok
+2019-02-16_16:32:43 Hideki_30_1 batteryState: ok
+2019-02-16_16:32:43 Hideki_30_1 channel: 1
+2019-02-16_16:32:43 Hideki_30_1 temperature: 18.8
+2019-02-16_16:32:43 Hideki_30_1 humidity: 49
+2019-02-16_16:32:43 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_16:33:25 Hideki_30_1 package_number: 1
+2019-02-16_16:38:26 Hideki_30_1 T: 18.4 H: 49
+2019-02-16_16:38:26 Hideki_30_1 battery: ok
+2019-02-16_16:38:26 Hideki_30_1 batteryState: ok
+2019-02-16_16:38:26 Hideki_30_1 channel: 1
+2019-02-16_16:38:26 Hideki_30_1 temperature: 18.4
+2019-02-16_16:38:26 Hideki_30_1 package_number: 1
+2019-02-16_16:38:26 Hideki_30_1 humidity: 49
+2019-02-16_16:38:26 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_16:38:27 Hideki_30_1 package_number: 3
+2019-02-16_16:39:09 Hideki_30_1 package_number: 1
+2019-02-16_16:41:19 Hideki_30_1 T: 18.2 H: 49
+2019-02-16_16:41:19 Hideki_30_1 temperature: 18.2
+2019-02-16_16:41:19 Hideki_30_1 package_number: 3
+2019-02-16_16:54:56 Hideki_30_1 T: 17.2 H: 49
+2019-02-16_16:54:56 Hideki_30_1 battery: ok
+2019-02-16_16:54:56 Hideki_30_1 batteryState: ok
+2019-02-16_16:54:56 Hideki_30_1 channel: 1
+2019-02-16_16:54:56 Hideki_30_1 temperature: 17.2
+2019-02-16_16:54:56 Hideki_30_1 package_number: 3
+2019-02-16_16:54:56 Hideki_30_1 humidity: 49
+2019-02-16_16:54:56 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_16:57:04 Hideki_30_1 T: 17 H: 49
+2019-02-16_16:57:04 Hideki_30_1 temperature: 17
+2019-02-16_16:57:04 Hideki_30_1 package_number: 1
+2019-02-16_16:59:56 Hideki_30_1 T: 16.8 H: 49
+2019-02-16_16:59:56 Hideki_30_1 battery: ok
+2019-02-16_16:59:56 Hideki_30_1 batteryState: ok
+2019-02-16_16:59:56 Hideki_30_1 channel: 1
+2019-02-16_16:59:56 Hideki_30_1 temperature: 16.8
+2019-02-16_16:59:56 Hideki_30_1 humidity: 49
+2019-02-16_16:59:56 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_17:07:06 Hideki_30_1 T: 16.2 H: 49
+2019-02-16_17:07:06 Hideki_30_1 battery: ok
+2019-02-16_17:07:06 Hideki_30_1 batteryState: ok
+2019-02-16_17:07:06 Hideki_30_1 channel: 1
+2019-02-16_17:07:06 Hideki_30_1 temperature: 16.2
+2019-02-16_17:07:06 Hideki_30_1 package_number: 1
+2019-02-16_17:07:06 Hideki_30_1 humidity: 49
+2019-02-16_17:07:06 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-16_17:17:09 Hideki_30_1 T: 15.4 H: 49
+2019-02-16_17:17:09 Hideki_30_1 battery: ok
+2019-02-16_17:17:09 Hideki_30_1 batteryState: ok
+2019-02-16_17:17:09 Hideki_30_1 channel: 1
+2019-02-16_17:17:09 Hideki_30_1 temperature: 15.4
+2019-02-16_17:17:09 Hideki_30_1 package_number: 3
+2019-02-16_17:17:09 Hideki_30_1 humidity: 49
+2019-02-16_17:17:09 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_09:46:18 Hideki_30_1 T: 2.6 H: 69
+2019-02-20_09:46:18 Hideki_30_1 battery: ok
+2019-02-20_09:46:18 Hideki_30_1 batteryState: ok
+2019-02-20_09:46:18 Hideki_30_1 channel: 1
+2019-02-20_09:46:18 Hideki_30_1 temperature: 2.6
+2019-02-20_09:46:18 Hideki_30_1 package_number: 3
+2019-02-20_09:46:18 Hideki_30_1 humidity: 69
+2019-02-20_09:46:18 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_09:47:01 Hideki_30_1 T: 2.7 H: 69
+2019-02-20_09:47:01 Hideki_30_1 temperature: 2.7
+2019-02-20_09:47:44 Hideki_30_1 package_number: 1
+2019-02-20_09:52:45 Hideki_30_1 T: 2.9 H: 69
+2019-02-20_09:52:45 Hideki_30_1 battery: ok
+2019-02-20_09:52:45 Hideki_30_1 batteryState: ok
+2019-02-20_09:52:45 Hideki_30_1 channel: 1
+2019-02-20_09:52:45 Hideki_30_1 temperature: 2.9
+2019-02-20_09:52:45 Hideki_30_1 package_number: 3
+2019-02-20_09:52:45 Hideki_30_1 humidity: 69
+2019-02-20_09:52:45 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_09:57:03 Hideki_30_1 T: 3.2 H: 69
+2019-02-20_09:57:03 Hideki_30_1 temperature: 3.2
+2019-02-20_09:58:29 Hideki_30_1 battery: ok
+2019-02-20_09:58:29 Hideki_30_1 batteryState: ok
+2019-02-20_09:58:29 Hideki_30_1 channel: 1
+2019-02-20_09:58:29 Hideki_30_1 package_number: 3
+2019-02-20_09:58:29 Hideki_30_1 humidity: 69
+2019-02-20_09:58:29 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_09:59:55 Hideki_30_1 T: 3.3 H: 69
+2019-02-20_09:59:55 Hideki_30_1 temperature: 3.3
+2019-02-20_09:59:55 Hideki_30_1 package_number: 1
+2019-02-20_10:06:22 Hideki_30_1 T: 3.5 H: 69
+2019-02-20_10:06:22 Hideki_30_1 battery: ok
+2019-02-20_10:06:22 Hideki_30_1 batteryState: ok
+2019-02-20_10:06:22 Hideki_30_1 channel: 1
+2019-02-20_10:06:22 Hideki_30_1 temperature: 3.5
+2019-02-20_10:06:22 Hideki_30_1 package_number: 1
+2019-02-20_10:06:22 Hideki_30_1 humidity: 69
+2019-02-20_10:06:22 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_10:07:48 Hideki_30_1 T: 3.6 H: 69
+2019-02-20_10:07:48 Hideki_30_1 temperature: 3.6
+2019-02-20_10:07:48 Hideki_30_1 package_number: 3
+2019-02-20_10:19:16 Hideki_30_1 T: 4.3 H: 69
+2019-02-20_10:19:16 Hideki_30_1 battery: ok
+2019-02-20_10:19:16 Hideki_30_1 batteryState: ok
+2019-02-20_10:19:16 Hideki_30_1 channel: 1
+2019-02-20_10:19:16 Hideki_30_1 temperature: 4.3
+2019-02-20_10:19:16 Hideki_30_1 package_number: 1
+2019-02-20_10:19:16 Hideki_30_1 humidity: 69
+2019-02-20_10:19:16 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_10:24:17 Hideki_30_1 T: 4.6 H: 69
+2019-02-20_10:24:17 Hideki_30_1 battery: ok
+2019-02-20_10:24:17 Hideki_30_1 batteryState: ok
+2019-02-20_10:24:17 Hideki_30_1 channel: 1
+2019-02-20_10:24:17 Hideki_30_1 temperature: 4.6
+2019-02-20_10:24:17 Hideki_30_1 package_number: 3
+2019-02-20_10:24:17 Hideki_30_1 humidity: 69
+2019-02-20_10:24:17 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_10:25:43 Hideki_30_1 package_number: 1
+2019-02-20_10:25:43 Hideki_30_1 package_number: 3
+2019-02-20_10:32:53 Hideki_30_1 T: 5.2 H: 69
+2019-02-20_10:32:53 Hideki_30_1 battery: ok
+2019-02-20_10:32:53 Hideki_30_1 batteryState: ok
+2019-02-20_10:32:53 Hideki_30_1 channel: 1
+2019-02-20_10:32:53 Hideki_30_1 temperature: 5.2
+2019-02-20_10:32:53 Hideki_30_1 package_number: 1
+2019-02-20_10:32:53 Hideki_30_1 humidity: 69
+2019-02-20_10:32:53 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_10:38:37 Hideki_30_1 T: 5.6 H: 69
+2019-02-20_10:38:37 Hideki_30_1 battery: ok
+2019-02-20_10:38:37 Hideki_30_1 batteryState: ok
+2019-02-20_10:38:37 Hideki_30_1 channel: 1
+2019-02-20_10:38:37 Hideki_30_1 temperature: 5.6
+2019-02-20_10:38:37 Hideki_30_1 package_number: 3
+2019-02-20_10:38:37 Hideki_30_1 humidity: 69
+2019-02-20_10:38:37 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_10:44:21 Hideki_30_1 T: 6 H: 68
+2019-02-20_10:44:21 Hideki_30_1 battery: ok
+2019-02-20_10:44:21 Hideki_30_1 batteryState: ok
+2019-02-20_10:44:21 Hideki_30_1 channel: 1
+2019-02-20_10:44:21 Hideki_30_1 temperature: 6
+2019-02-20_10:44:21 Hideki_30_1 package_number: 1
+2019-02-20_10:44:21 Hideki_30_1 humidity: 68
+2019-02-20_10:44:21 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_10:45:47 Hideki_30_1 package_number: 3
+2019-02-20_10:49:22 Hideki_30_1 T: 6.3 H: 68
+2019-02-20_10:49:22 Hideki_30_1 battery: ok
+2019-02-20_10:49:22 Hideki_30_1 batteryState: ok
+2019-02-20_10:49:22 Hideki_30_1 channel: 1
+2019-02-20_10:49:22 Hideki_30_1 temperature: 6.3
+2019-02-20_10:49:22 Hideki_30_1 humidity: 68
+2019-02-20_10:49:22 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_10:55:49 Hideki_30_1 T: 6.9 H: 69
+2019-02-20_10:55:49 Hideki_30_1 battery: ok
+2019-02-20_10:55:49 Hideki_30_1 batteryState: ok
+2019-02-20_10:55:49 Hideki_30_1 channel: 1
+2019-02-20_10:55:49 Hideki_30_1 temperature: 6.9
+2019-02-20_10:55:49 Hideki_30_1 package_number: 1
+2019-02-20_10:55:49 Hideki_30_1 humidity: 69
+2019-02-20_10:55:49 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_11:00:07 Hideki_30_1 T: 7.6 H: 68
+2019-02-20_11:00:07 Hideki_30_1 temperature: 7.6
+2019-02-20_11:00:07 Hideki_30_1 package_number: 3
+2019-02-20_11:00:07 Hideki_30_1 humidity: 68
+2019-02-20_11:03:42 Hideki_30_1 T: 8 H: 68
+2019-02-20_11:03:42 Hideki_30_1 battery: ok
+2019-02-20_11:03:42 Hideki_30_1 batteryState: ok
+2019-02-20_11:03:42 Hideki_30_1 channel: 1
+2019-02-20_11:03:42 Hideki_30_1 temperature: 8
+2019-02-20_11:03:42 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_11:21:37 Hideki_30_1 T: 9.8 H: 67
+2019-02-20_11:21:37 Hideki_30_1 battery: ok
+2019-02-20_11:21:37 Hideki_30_1 batteryState: ok
+2019-02-20_11:21:37 Hideki_30_1 channel: 1
+2019-02-20_11:21:37 Hideki_30_1 temperature: 9.8
+2019-02-20_11:21:37 Hideki_30_1 package_number: 3
+2019-02-20_11:21:37 Hideki_30_1 humidity: 67
+2019-02-20_11:21:37 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_11:22:20 Hideki_30_1 T: 9.9 H: 67
+2019-02-20_11:22:20 Hideki_30_1 temperature: 9.9
+2019-02-20_11:22:20 Hideki_30_1 package_number: 1
+2019-02-20_11:24:29 Hideki_30_1 T: 10.1 H: 67
+2019-02-20_11:24:29 Hideki_30_1 temperature: 10.1
+2019-02-20_11:36:40 Hideki_30_1 T: 11.3 H: 66
+2019-02-20_11:36:40 Hideki_30_1 battery: ok
+2019-02-20_11:36:40 Hideki_30_1 batteryState: ok
+2019-02-20_11:36:40 Hideki_30_1 channel: 1
+2019-02-20_11:36:40 Hideki_30_1 temperature: 11.3
+2019-02-20_11:36:40 Hideki_30_1 package_number: 1
+2019-02-20_11:36:40 Hideki_30_1 humidity: 66
+2019-02-20_11:36:40 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_11:36:40 Hideki_30_1 package_number: 3
+2019-02-20_11:51:00 Hideki_30_1 T: 12.8 H: 66
+2019-02-20_11:51:00 Hideki_30_1 battery: ok
+2019-02-20_11:51:00 Hideki_30_1 batteryState: ok
+2019-02-20_11:51:00 Hideki_30_1 channel: 1
+2019-02-20_11:51:00 Hideki_30_1 temperature: 12.8
+2019-02-20_11:51:00 Hideki_30_1 package_number: 1
+2019-02-20_11:51:00 Hideki_30_1 humidity: 66
+2019-02-20_11:51:00 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_11:53:09 Hideki_30_1 T: 13.2 H: 65
+2019-02-20_11:53:09 Hideki_30_1 temperature: 13.2
+2019-02-20_11:53:09 Hideki_30_1 humidity: 65
+2019-02-20_12:00:19 Hideki_30_1 T: 14 H: 65
+2019-02-20_12:00:19 Hideki_30_1 battery: ok
+2019-02-20_12:00:19 Hideki_30_1 batteryState: ok
+2019-02-20_12:00:19 Hideki_30_1 channel: 1
+2019-02-20_12:00:19 Hideki_30_1 temperature: 14
+2019-02-20_12:00:19 Hideki_30_1 package_number: 3
+2019-02-20_12:00:19 Hideki_30_1 humidity: 65
+2019-02-20_12:00:19 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_12:04:37 Hideki_30_1 T: 14.4 H: 65
+2019-02-20_12:04:37 Hideki_30_1 temperature: 14.4
+2019-02-20_12:04:37 Hideki_30_1 package_number: 1
+2019-02-20_12:11:04 Hideki_30_1 T: 14.7 H: 64
+2019-02-20_12:11:04 Hideki_30_1 battery: ok
+2019-02-20_12:11:04 Hideki_30_1 batteryState: ok
+2019-02-20_12:11:04 Hideki_30_1 channel: 1
+2019-02-20_12:11:04 Hideki_30_1 temperature: 14.7
+2019-02-20_12:11:04 Hideki_30_1 package_number: 1
+2019-02-20_12:11:04 Hideki_30_1 humidity: 64
+2019-02-20_12:11:04 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_12:22:32 Hideki_30_1 T: 15.4 H: 63
+2019-02-20_12:22:32 Hideki_30_1 battery: ok
+2019-02-20_12:22:32 Hideki_30_1 batteryState: ok
+2019-02-20_12:22:32 Hideki_30_1 channel: 1
+2019-02-20_12:22:32 Hideki_30_1 temperature: 15.4
+2019-02-20_12:22:32 Hideki_30_1 package_number: 1
+2019-02-20_12:22:32 Hideki_30_1 humidity: 63
+2019-02-20_12:22:32 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_12:26:50 Hideki_30_1 T: 15.6 H: 63
+2019-02-20_12:26:50 Hideki_30_1 temperature: 15.6
+2019-02-20_12:32:34 Hideki_30_1 T: 16.1 H: 62
+2019-02-20_12:32:34 Hideki_30_1 battery: ok
+2019-02-20_12:32:34 Hideki_30_1 batteryState: ok
+2019-02-20_12:32:34 Hideki_30_1 channel: 1
+2019-02-20_12:32:34 Hideki_30_1 temperature: 16.1
+2019-02-20_12:32:34 Hideki_30_1 package_number: 1
+2019-02-20_12:32:34 Hideki_30_1 humidity: 62
+2019-02-20_12:32:34 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_12:39:01 Hideki_30_1 T: 16.7 H: 62
+2019-02-20_12:39:01 Hideki_30_1 battery: ok
+2019-02-20_12:39:01 Hideki_30_1 batteryState: ok
+2019-02-20_12:39:01 Hideki_30_1 channel: 1
+2019-02-20_12:39:01 Hideki_30_1 temperature: 16.7
+2019-02-20_12:39:01 Hideki_30_1 package_number: 3
+2019-02-20_12:39:01 Hideki_30_1 humidity: 62
+2019-02-20_12:39:01 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_12:43:19 Hideki_30_1 T: 16.8 H: 61
+2019-02-20_12:43:19 Hideki_30_1 temperature: 16.8
+2019-02-20_12:43:19 Hideki_30_1 humidity: 61
+2019-02-20_12:54:04 Hideki_30_1 T: 16.9 H: 60
+2019-02-20_12:54:04 Hideki_30_1 battery: ok
+2019-02-20_12:54:04 Hideki_30_1 batteryState: ok
+2019-02-20_12:54:04 Hideki_30_1 channel: 1
+2019-02-20_12:54:04 Hideki_30_1 temperature: 16.9
+2019-02-20_12:54:04 Hideki_30_1 package_number: 3
+2019-02-20_12:54:04 Hideki_30_1 humidity: 60
+2019-02-20_12:54:04 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_12:56:13 Hideki_30_1 package_number: 1
+2019-02-20_13:01:14 Hideki_30_1 T: 17.3 H: 60
+2019-02-20_13:01:14 Hideki_30_1 battery: ok
+2019-02-20_13:01:14 Hideki_30_1 batteryState: ok
+2019-02-20_13:01:14 Hideki_30_1 channel: 1
+2019-02-20_13:01:14 Hideki_30_1 temperature: 17.3
+2019-02-20_13:01:14 Hideki_30_1 package_number: 1
+2019-02-20_13:01:14 Hideki_30_1 humidity: 60
+2019-02-20_13:01:14 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_13:03:23 Hideki_30_1 T: 17.5 H: 60
+2019-02-20_13:03:23 Hideki_30_1 temperature: 17.5
+2019-02-20_13:04:06 Hideki_30_1 T: 17.6 H: 60
+2019-02-20_13:04:06 Hideki_30_1 temperature: 17.6
+2019-02-20_13:04:06 Hideki_30_1 package_number: 3
+2019-02-20_13:04:49 Hideki_30_1 T: 17.7 H: 60
+2019-02-20_13:04:49 Hideki_30_1 temperature: 17.7
+2019-02-20_13:09:07 Hideki_30_1 T: 18.1 H: 60
+2019-02-20_13:09:07 Hideki_30_1 battery: ok
+2019-02-20_13:09:07 Hideki_30_1 batteryState: ok
+2019-02-20_13:09:07 Hideki_30_1 channel: 1
+2019-02-20_13:09:07 Hideki_30_1 temperature: 18.1
+2019-02-20_13:09:07 Hideki_30_1 package_number: 3
+2019-02-20_13:09:07 Hideki_30_1 humidity: 60
+2019-02-20_13:09:07 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_13:11:16 Hideki_30_1 T: 18.2 H: 59
+2019-02-20_13:11:16 Hideki_30_1 temperature: 18.2
+2019-02-20_13:11:16 Hideki_30_1 humidity: 59
+2019-02-20_13:11:59 Hideki_30_1 T: 18.3 H: 59
+2019-02-20_13:11:59 Hideki_30_1 temperature: 18.3
+2019-02-20_13:21:18 Hideki_30_1 T: 18.8 H: 59
+2019-02-20_13:21:18 Hideki_30_1 battery: ok
+2019-02-20_13:21:18 Hideki_30_1 batteryState: ok
+2019-02-20_13:21:18 Hideki_30_1 channel: 1
+2019-02-20_13:21:18 Hideki_30_1 temperature: 18.8
+2019-02-20_13:21:18 Hideki_30_1 package_number: 1
+2019-02-20_13:21:18 Hideki_30_1 humidity: 59
+2019-02-20_13:21:18 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_13:34:55 Hideki_30_1 T: 18.5 H: 58
+2019-02-20_13:34:55 Hideki_30_1 battery: ok
+2019-02-20_13:34:55 Hideki_30_1 batteryState: ok
+2019-02-20_13:34:55 Hideki_30_1 channel: 1
+2019-02-20_13:34:55 Hideki_30_1 temperature: 18.5
+2019-02-20_13:34:55 Hideki_30_1 package_number: 3
+2019-02-20_13:34:55 Hideki_30_1 humidity: 58
+2019-02-20_13:34:55 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_13:37:04 Hideki_30_1 T: 18.6 H: 58
+2019-02-20_13:37:04 Hideki_30_1 temperature: 18.6
+2019-02-20_13:37:04 Hideki_30_1 package_number: 1
+2019-02-20_13:37:47 Hideki_30_1 T: 18.7 H: 58
+2019-02-20_13:37:47 Hideki_30_1 temperature: 18.7
+2019-02-20_13:41:22 Hideki_30_1 battery: ok
+2019-02-20_13:41:22 Hideki_30_1 batteryState: ok
+2019-02-20_13:41:22 Hideki_30_1 channel: 1
+2019-02-20_13:41:22 Hideki_30_1 package_number: 3
+2019-02-20_13:41:22 Hideki_30_1 humidity: 58
+2019-02-20_13:41:22 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_13:43:31 Hideki_30_1 T: 18.5 H: 57
+2019-02-20_13:43:31 Hideki_30_1 temperature: 18.5
+2019-02-20_13:43:31 Hideki_30_1 package_number: 1
+2019-02-20_13:43:31 Hideki_30_1 humidity: 57
+2019-02-20_13:51:24 Hideki_30_1 T: 18.4 H: 57
+2019-02-20_13:51:24 Hideki_30_1 battery: ok
+2019-02-20_13:51:24 Hideki_30_1 batteryState: ok
+2019-02-20_13:51:24 Hideki_30_1 channel: 1
+2019-02-20_13:51:24 Hideki_30_1 temperature: 18.4
+2019-02-20_13:51:24 Hideki_30_1 package_number: 1
+2019-02-20_13:51:24 Hideki_30_1 humidity: 57
+2019-02-20_13:51:24 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_13:56:25 Hideki_30_1 T: 18.9 H: 58
+2019-02-20_13:56:25 Hideki_30_1 battery: ok
+2019-02-20_13:56:25 Hideki_30_1 batteryState: ok
+2019-02-20_13:56:25 Hideki_30_1 channel: 1
+2019-02-20_13:56:25 Hideki_30_1 temperature: 18.9
+2019-02-20_13:56:25 Hideki_30_1 package_number: 3
+2019-02-20_13:56:25 Hideki_30_1 humidity: 58
+2019-02-20_13:56:25 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_14:00:00 Hideki_30_1 T: 19.1 H: 57
+2019-02-20_14:00:00 Hideki_30_1 temperature: 19.1
+2019-02-20_14:00:00 Hideki_30_1 humidity: 57
+2019-02-20_14:03:35 Hideki_30_1 battery: ok
+2019-02-20_14:03:35 Hideki_30_1 batteryState: ok
+2019-02-20_14:03:35 Hideki_30_1 channel: 1
+2019-02-20_14:03:35 Hideki_30_1 package_number: 1
+2019-02-20_14:03:35 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_14:05:44 Hideki_30_1 T: 19.2 H: 57
+2019-02-20_14:05:44 Hideki_30_1 temperature: 19.2
+2019-02-20_14:05:44 Hideki_30_1 humidity: 57
+2019-02-20_14:07:10 Hideki_30_1 T: 19.1 H: 56
+2019-02-20_14:07:10 Hideki_30_1 temperature: 19.1
+2019-02-20_14:07:10 Hideki_30_1 package_number: 3
+2019-02-20_14:07:10 Hideki_30_1 humidity: 56
+2019-02-20_14:14:20 Hideki_30_1 T: 19 H: 56
+2019-02-20_14:14:20 Hideki_30_1 battery: ok
+2019-02-20_14:14:20 Hideki_30_1 batteryState: ok
+2019-02-20_14:14:20 Hideki_30_1 channel: 1
+2019-02-20_14:14:20 Hideki_30_1 temperature: 19
+2019-02-20_14:14:20 Hideki_30_1 package_number: 1
+2019-02-20_14:14:20 Hideki_30_1 humidity: 56
+2019-02-20_14:14:20 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_14:18:38 Hideki_30_1 T: 19.1 H: 56
+2019-02-20_14:18:38 Hideki_30_1 temperature: 19.1
+2019-02-20_14:22:13 Hideki_30_1 T: 19.2 H: 55
+2019-02-20_14:22:13 Hideki_30_1 battery: ok
+2019-02-20_14:22:13 Hideki_30_1 batteryState: ok
+2019-02-20_14:22:13 Hideki_30_1 channel: 1
+2019-02-20_14:22:13 Hideki_30_1 temperature: 19.2
+2019-02-20_14:22:13 Hideki_30_1 package_number: 1
+2019-02-20_14:22:13 Hideki_30_1 humidity: 55
+2019-02-20_14:22:13 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_14:22:56 Hideki_30_1 package_number: 3
+2019-02-20_14:27:14 Hideki_30_1 T: 19.3 H: 55
+2019-02-20_14:27:14 Hideki_30_1 battery: ok
+2019-02-20_14:27:14 Hideki_30_1 batteryState: ok
+2019-02-20_14:27:14 Hideki_30_1 channel: 1
+2019-02-20_14:27:14 Hideki_30_1 temperature: 19.3
+2019-02-20_14:27:14 Hideki_30_1 package_number: 1
+2019-02-20_14:27:14 Hideki_30_1 humidity: 55
+2019-02-20_14:27:14 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_14:34:24 Hideki_30_1 T: 19.4 H: 55
+2019-02-20_14:34:24 Hideki_30_1 battery: ok
+2019-02-20_14:34:24 Hideki_30_1 batteryState: ok
+2019-02-20_14:34:24 Hideki_30_1 channel: 1
+2019-02-20_14:34:24 Hideki_30_1 temperature: 19.4
+2019-02-20_14:34:24 Hideki_30_1 package_number: 3
+2019-02-20_14:34:24 Hideki_30_1 humidity: 55
+2019-02-20_14:34:24 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-20_14:37:59 Hideki_30_1 T: 19.2 H: 54
+2019-02-20_14:37:59 Hideki_30_1 temperature: 19.2
+2019-02-20_14:37:59 Hideki_30_1 humidity: 54
+2019-02-20_14:43:00 Hideki_30_1 T: 19.3 H: 55
+2019-02-20_14:43:00 Hideki_30_1 battery: ok
+2019-02-20_14:43:00 Hideki_30_1 batteryState: ok
+2019-02-20_14:43:00 Hideki_30_1 channel: 1
+2019-02-20_14:43:00 Hideki_30_1 temperature: 19.3
+2019-02-20_14:43:00 Hideki_30_1 package_number: 3
+2019-02-20_14:43:00 Hideki_30_1 humidity: 55
+2019-02-20_14:43:00 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_11:34:34 Hideki_30_1 T: 14.8 H: 56
+2019-02-27_11:34:34 Hideki_30_1 battery: ok
+2019-02-27_11:34:34 Hideki_30_1 batteryState: ok
+2019-02-27_11:34:34 Hideki_30_1 channel: 1
+2019-02-27_11:34:34 Hideki_30_1 temperature: 14.8
+2019-02-27_11:34:34 Hideki_30_1 package_number: 1
+2019-02-27_11:34:34 Hideki_30_1 humidity: 56
+2019-02-27_11:34:34 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_11:39:35 Hideki_30_1 T: 15.7 H: 56
+2019-02-27_11:39:35 Hideki_30_1 battery: ok
+2019-02-27_11:39:35 Hideki_30_1 batteryState: ok
+2019-02-27_11:39:35 Hideki_30_1 channel: 1
+2019-02-27_11:39:35 Hideki_30_1 temperature: 15.7
+2019-02-27_11:39:35 Hideki_30_1 package_number: 3
+2019-02-27_11:39:35 Hideki_30_1 humidity: 56
+2019-02-27_11:39:35 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_11:40:18 Hideki_30_1 T: 15.9 H: 56
+2019-02-27_11:40:18 Hideki_30_1 temperature: 15.9
+2019-02-27_11:40:18 Hideki_30_1 package_number: 1
+2019-02-27_11:40:19 Hideki_30_1 package_number: 3
+2019-02-27_11:41:01 Hideki_30_1 T: 16 H: 55
+2019-02-27_11:41:01 Hideki_30_1 temperature: 16
+2019-02-27_11:41:01 Hideki_30_1 humidity: 55
+2019-02-27_11:44:36 Hideki_30_1 T: 16.6 H: 54
+2019-02-27_11:44:36 Hideki_30_1 battery: ok
+2019-02-27_11:44:36 Hideki_30_1 batteryState: ok
+2019-02-27_11:44:36 Hideki_30_1 channel: 1
+2019-02-27_11:44:36 Hideki_30_1 temperature: 16.6
+2019-02-27_11:44:36 Hideki_30_1 humidity: 54
+2019-02-27_11:44:36 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_11:45:19 Hideki_30_1 T: 16.7 H: 54
+2019-02-27_11:45:19 Hideki_30_1 temperature: 16.7
+2019-02-27_11:45:19 Hideki_30_1 package_number: 1
+2019-02-27_11:45:19 Hideki_30_1 package_number: 3
+2019-02-27_11:46:02 Hideki_30_1 T: 16.9 H: 54
+2019-02-27_11:46:02 Hideki_30_1 temperature: 16.9
+2019-02-27_11:46:02 Hideki_30_1 package_number: 1
+2019-02-27_11:46:02 Hideki_30_1 package_number: 3
+2019-02-27_11:47:28 Hideki_30_1 T: 17.1 H: 54
+2019-02-27_11:47:28 Hideki_30_1 temperature: 17.1
+2019-02-27_11:47:28 Hideki_30_1 package_number: 1
+2019-02-27_11:48:11 Hideki_30_1 package_number: 3
+2019-02-27_12:08:58 Hideki_30_1 T: 18.9 H: 52
+2019-02-27_12:08:58 Hideki_30_1 battery: ok
+2019-02-27_12:08:58 Hideki_30_1 batteryState: ok
+2019-02-27_12:08:58 Hideki_30_1 channel: 1
+2019-02-27_12:08:58 Hideki_30_1 temperature: 18.9
+2019-02-27_12:08:58 Hideki_30_1 package_number: 3
+2019-02-27_12:08:58 Hideki_30_1 humidity: 52
+2019-02-27_12:08:58 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_12:09:41 Hideki_30_1 T: 19 H: 52
+2019-02-27_12:09:41 Hideki_30_1 temperature: 19
+2019-02-27_12:09:41 Hideki_30_1 package_number: 1
+2019-02-27_12:09:42 Hideki_30_1 package_number: 3
+2019-02-27_12:13:16 Hideki_30_1 T: 19.4 H: 52
+2019-02-27_12:13:16 Hideki_30_1 temperature: 19.4
+2019-02-27_12:13:16 Hideki_30_1 package_number: 1
+2019-02-27_12:13:59 Hideki_30_1 T: 19.5 H: 52
+2019-02-27_12:13:59 Hideki_30_1 battery: ok
+2019-02-27_12:13:59 Hideki_30_1 batteryState: ok
+2019-02-27_12:13:59 Hideki_30_1 channel: 1
+2019-02-27_12:13:59 Hideki_30_1 temperature: 19.5
+2019-02-27_12:13:59 Hideki_30_1 humidity: 52
+2019-02-27_12:13:59 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_12:14:42 Hideki_30_1 T: 19.7 H: 52
+2019-02-27_12:14:42 Hideki_30_1 temperature: 19.7
+2019-02-27_12:15:26 Hideki_30_1 package_number: 3
+2019-02-27_12:16:51 Hideki_30_1 package_number: 1
+2019-02-27_12:16:51 Hideki_30_1 package_number: 3
+2019-02-27_12:18:17 Hideki_30_1 T: 19.7 H: 51
+2019-02-27_12:18:17 Hideki_30_1 package_number: 1
+2019-02-27_12:18:17 Hideki_30_1 humidity: 51
+2019-02-27_12:19:44 Hideki_30_1 T: 19.6 H: 51
+2019-02-27_12:19:44 Hideki_30_1 battery: ok
+2019-02-27_12:19:44 Hideki_30_1 batteryState: ok
+2019-02-27_12:19:44 Hideki_30_1 channel: 1
+2019-02-27_12:19:44 Hideki_30_1 temperature: 19.6
+2019-02-27_12:19:44 Hideki_30_1 package_number: 3
+2019-02-27_12:19:44 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_12:20:27 Hideki_30_1 T: 19.7 H: 51
+2019-02-27_12:20:27 Hideki_30_1 temperature: 19.7
+2019-02-27_12:21:09 Hideki_30_1 package_number: 1
+2019-02-27_12:25:27 Hideki_30_1 T: 20.1 H: 51
+2019-02-27_12:25:27 Hideki_30_1 battery: ok
+2019-02-27_12:25:27 Hideki_30_1 batteryState: ok
+2019-02-27_12:25:27 Hideki_30_1 channel: 1
+2019-02-27_12:25:27 Hideki_30_1 temperature: 20.1
+2019-02-27_12:25:27 Hideki_30_1 package_number: 3
+2019-02-27_12:25:27 Hideki_30_1 humidity: 51
+2019-02-27_12:25:27 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-27_12:29:02 Hideki_30_1 T: 20.5 H: 51
+2019-02-27_12:29:02 Hideki_30_1 temperature: 20.5
+2019-02-27_12:29:02 Hideki_30_1 package_number: 1
+2019-02-27_12:30:28 Hideki_30_1 T: 20.6 H: 50
+2019-02-27_12:30:28 Hideki_30_1 battery: ok
+2019-02-27_12:30:28 Hideki_30_1 batteryState: ok
+2019-02-27_12:30:28 Hideki_30_1 channel: 1
+2019-02-27_12:30:28 Hideki_30_1 temperature: 20.6
+2019-02-27_12:30:28 Hideki_30_1 humidity: 50
+2019-02-27_12:30:28 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-27_12:33:20 Hideki_30_1 T: 20.8 H: 50
+2019-02-27_12:33:20 Hideki_30_1 temperature: 20.8
+2019-02-27_12:34:03 Hideki_30_1 T: 20.9 H: 50
+2019-02-27_12:34:03 Hideki_30_1 temperature: 20.9
+2019-02-27_12:34:03 Hideki_30_1 package_number: 1
+2019-02-27_12:35:29 Hideki_30_1 T: 21.1 H: 49
+2019-02-27_12:35:29 Hideki_30_1 battery: ok
+2019-02-27_12:35:29 Hideki_30_1 batteryState: ok
+2019-02-27_12:35:29 Hideki_30_1 channel: 1
+2019-02-27_12:35:29 Hideki_30_1 temperature: 21.1
+2019-02-27_12:35:29 Hideki_30_1 humidity: 49
+2019-02-27_12:35:29 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-27_12:42:39 Hideki_30_1 T: 21.8 H: 49
+2019-02-27_12:42:39 Hideki_30_1 battery: ok
+2019-02-27_12:42:39 Hideki_30_1 batteryState: ok
+2019-02-27_12:42:39 Hideki_30_1 channel: 1
+2019-02-27_12:42:39 Hideki_30_1 temperature: 21.8
+2019-02-27_12:42:39 Hideki_30_1 package_number: 1
+2019-02-27_12:42:39 Hideki_30_1 humidity: 49
+2019-02-27_12:42:39 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-27_12:49:49 Hideki_30_1 T: 22.9 H: 49
+2019-02-27_12:49:49 Hideki_30_1 battery: ok
+2019-02-27_12:49:49 Hideki_30_1 batteryState: ok
+2019-02-27_12:49:49 Hideki_30_1 channel: 1
+2019-02-27_12:49:49 Hideki_30_1 temperature: 22.9
+2019-02-27_12:49:49 Hideki_30_1 package_number: 1
+2019-02-27_12:49:49 Hideki_30_1 humidity: 49
+2019-02-27_12:49:49 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-27_12:54:50 Hideki_30_1 T: 23.5 H: 48
+2019-02-27_12:54:50 Hideki_30_1 battery: ok
+2019-02-27_12:54:50 Hideki_30_1 batteryState: ok
+2019-02-27_12:54:50 Hideki_30_1 channel: 1
+2019-02-27_12:54:50 Hideki_30_1 temperature: 23.5
+2019-02-27_12:54:50 Hideki_30_1 package_number: 3
+2019-02-27_12:54:50 Hideki_30_1 humidity: 48
+2019-02-27_12:54:50 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-27_12:55:33 Hideki_30_1 T: 23.6 H: 48
+2019-02-27_12:55:33 Hideki_30_1 temperature: 23.6
+2019-02-27_12:55:33 Hideki_30_1 package_number: 1
+2019-02-27_12:55:33 Hideki_30_1 package_number: 3
+2019-02-27_13:00:34 Hideki_30_1 T: 23.9 H: 48
+2019-02-27_13:00:34 Hideki_30_1 battery: ok
+2019-02-27_13:00:34 Hideki_30_1 batteryState: ok
+2019-02-27_13:00:34 Hideki_30_1 channel: 1
+2019-02-27_13:00:34 Hideki_30_1 temperature: 23.9
+2019-02-27_13:00:34 Hideki_30_1 package_number: 3
+2019-02-27_13:00:34 Hideki_30_1 humidity: 48
+2019-02-27_13:00:34 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-27_13:02:00 Hideki_30_1 T: 24.2 H: 47
+2019-02-27_13:02:00 Hideki_30_1 temperature: 24.2
+2019-02-27_13:02:00 Hideki_30_1 package_number: 1
+2019-02-27_13:02:00 Hideki_30_1 humidity: 47
+2019-02-27_13:02:01 Hideki_30_1 package_number: 3
+2019-02-27_13:06:19 Hideki_30_1 T: 24.6 H: 47
+2019-02-27_13:06:19 Hideki_30_1 battery: ok
+2019-02-27_13:06:19 Hideki_30_1 batteryState: ok
+2019-02-27_13:06:19 Hideki_30_1 channel: 1
+2019-02-27_13:06:19 Hideki_30_1 temperature: 24.6
+2019-02-27_13:06:19 Hideki_30_1 comfort_level: Temp. and Hum. comfortable
+2019-02-27_13:07:01 Hideki_30_1 T: 24.7 H: 47
+2019-02-27_13:07:01 Hideki_30_1 temperature: 24.7
+2019-02-27_13:07:01 Hideki_30_1 package_number: 1
+2019-02-27_13:07:01 Hideki_30_1 humidity: 47
+2019-02-27_13:09:10 Hideki_30_1 T: 24.9 H: 47
+2019-02-27_13:09:10 Hideki_30_1 temperature: 24.9
+2019-02-27_13:09:10 Hideki_30_1 package_number: 3
+2019-02-27_13:14:12 Hideki_30_1 T: 25.4 H: 46
+2019-02-27_13:14:12 Hideki_30_1 battery: ok
+2019-02-27_13:14:12 Hideki_30_1 batteryState: ok
+2019-02-27_13:14:12 Hideki_30_1 channel: 1
+2019-02-27_13:14:12 Hideki_30_1 temperature: 25.4
+2019-02-27_13:14:12 Hideki_30_1 package_number: 3
+2019-02-27_13:14:12 Hideki_30_1 humidity: 46
+2019-02-27_13:14:12 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_13:18:29 Hideki_30_1 T: 25.8 H: 46
+2019-02-27_13:18:29 Hideki_30_1 temperature: 25.8
+2019-02-27_13:18:29 Hideki_30_1 package_number: 1
+2019-02-27_13:27:05 Hideki_30_1 T: 26.3 H: 43
+2019-02-27_13:27:05 Hideki_30_1 battery: ok
+2019-02-27_13:27:05 Hideki_30_1 batteryState: ok
+2019-02-27_13:27:05 Hideki_30_1 channel: 1
+2019-02-27_13:27:05 Hideki_30_1 temperature: 26.3
+2019-02-27_13:27:05 Hideki_30_1 package_number: 3
+2019-02-27_13:27:05 Hideki_30_1 humidity: 43
+2019-02-27_13:27:05 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_13:29:57 Hideki_30_1 T: 26.5 H: 43
+2019-02-27_13:29:57 Hideki_30_1 temperature: 26.5
+2019-02-27_13:29:57 Hideki_30_1 package_number: 1
+2019-02-27_13:31:23 Hideki_30_1 T: 26.6 H: 43
+2019-02-27_13:31:23 Hideki_30_1 temperature: 26.6
+2019-02-27_13:31:23 Hideki_30_1 package_number: 3
+2019-02-27_13:32:06 Hideki_30_1 T: 26.7 H: 42
+2019-02-27_13:32:06 Hideki_30_1 battery: ok
+2019-02-27_13:32:06 Hideki_30_1 batteryState: ok
+2019-02-27_13:32:06 Hideki_30_1 channel: 1
+2019-02-27_13:32:06 Hideki_30_1 temperature: 26.7
+2019-02-27_13:32:06 Hideki_30_1 package_number: 1
+2019-02-27_13:32:06 Hideki_30_1 humidity: 42
+2019-02-27_13:32:06 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_13:34:59 Hideki_30_1 T: 26.8 H: 42
+2019-02-27_13:34:59 Hideki_30_1 temperature: 26.8
+2019-02-27_13:34:59 Hideki_30_1 package_number: 3
+2019-02-27_13:42:08 Hideki_30_1 T: 27.3 H: 41
+2019-02-27_13:42:08 Hideki_30_1 battery: ok
+2019-02-27_13:42:08 Hideki_30_1 batteryState: ok
+2019-02-27_13:42:08 Hideki_30_1 channel: 1
+2019-02-27_13:42:08 Hideki_30_1 temperature: 27.3
+2019-02-27_13:42:08 Hideki_30_1 package_number: 1
+2019-02-27_13:42:08 Hideki_30_1 humidity: 41
+2019-02-27_13:42:08 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_13:47:09 Hideki_30_1 T: 27.7 H: 41
+2019-02-27_13:47:09 Hideki_30_1 battery: ok
+2019-02-27_13:47:09 Hideki_30_1 batteryState: ok
+2019-02-27_13:47:09 Hideki_30_1 channel: 1
+2019-02-27_13:47:09 Hideki_30_1 temperature: 27.7
+2019-02-27_13:47:09 Hideki_30_1 package_number: 1
+2019-02-27_13:47:09 Hideki_30_1 humidity: 41
+2019-02-27_13:47:09 Hideki_30_1 comfort_level: Hum. OK. Temp. uncomfortable (>24.9 or <20)
+2019-02-27_13:48:36 Hideki_30_1 package_number: 3
+2019-02-27_14:10:06 Hideki_30_1 T: 28.5 H: 39
+2019-02-27_14:10:06 Hideki_30_1 battery: ok
+2019-02-27_14:10:06 Hideki_30_1 batteryState: ok
+2019-02-27_14:10:06 Hideki_30_1 channel: 1
+2019-02-27_14:10:06 Hideki_30_1 temperature: 28.5
+2019-02-27_14:10:06 Hideki_30_1 package_number: 3
+2019-02-27_14:10:06 Hideki_30_1 humidity: 39
+2019-02-27_14:10:06 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_14:13:40 Hideki_30_1 T: 28.8 H: 39
+2019-02-27_14:13:40 Hideki_30_1 temperature: 28.8
+2019-02-27_14:16:32 Hideki_30_1 T: 28.9 H: 39
+2019-02-27_14:16:32 Hideki_30_1 battery: ok
+2019-02-27_14:16:32 Hideki_30_1 batteryState: ok
+2019-02-27_14:16:32 Hideki_30_1 channel: 1
+2019-02-27_14:16:32 Hideki_30_1 temperature: 28.9
+2019-02-27_14:16:32 Hideki_30_1 package_number: 1
+2019-02-27_14:16:32 Hideki_30_1 humidity: 39
+2019-02-27_14:16:32 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_14:17:16 Hideki_30_1 package_number: 3
+2019-02-27_14:27:18 Hideki_30_1 T: 29.1 H: 38
+2019-02-27_14:27:18 Hideki_30_1 battery: ok
+2019-02-27_14:27:18 Hideki_30_1 batteryState: ok
+2019-02-27_14:27:18 Hideki_30_1 channel: 1
+2019-02-27_14:27:18 Hideki_30_1 temperature: 29.1
+2019-02-27_14:27:18 Hideki_30_1 package_number: 3
+2019-02-27_14:27:18 Hideki_30_1 humidity: 38
+2019-02-27_14:27:18 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_14:29:26 Hideki_30_1 T: 29.1 H: 37
+2019-02-27_14:29:26 Hideki_30_1 package_number: 1
+2019-02-27_14:29:26 Hideki_30_1 humidity: 37
+2019-02-27_14:52:22 Hideki_30_1 T: 29.2 H: 36
+2019-02-27_14:52:22 Hideki_30_1 battery: ok
+2019-02-27_14:52:22 Hideki_30_1 batteryState: ok
+2019-02-27_14:52:22 Hideki_30_1 channel: 1
+2019-02-27_14:52:22 Hideki_30_1 temperature: 29.2
+2019-02-27_14:52:22 Hideki_30_1 package_number: 1
+2019-02-27_14:52:22 Hideki_30_1 humidity: 36
+2019-02-27_14:52:22 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_15:41:06 Hideki_30_1 T: 27.2 H: 34
+2019-02-27_15:41:06 Hideki_30_1 battery: ok
+2019-02-27_15:41:06 Hideki_30_1 batteryState: ok
+2019-02-27_15:41:06 Hideki_30_1 channel: 1
+2019-02-27_15:41:06 Hideki_30_1 temperature: 27.2
+2019-02-27_15:41:06 Hideki_30_1 package_number: 1
+2019-02-27_15:41:06 Hideki_30_1 humidity: 34
+2019-02-27_15:41:06 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_16:23:23 Hideki_30_1 T: 24 H: 32
+2019-02-27_16:23:23 Hideki_30_1 battery: ok
+2019-02-27_16:23:23 Hideki_30_1 batteryState: ok
+2019-02-27_16:23:23 Hideki_30_1 channel: 1
+2019-02-27_16:23:23 Hideki_30_1 temperature: 24
+2019-02-27_16:23:23 Hideki_30_1 package_number: 1
+2019-02-27_16:23:23 Hideki_30_1 humidity: 32
+2019-02-27_16:23:23 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_16:36:17 Hideki_30_1 T: 23.2 H: 32
+2019-02-27_16:36:17 Hideki_30_1 battery: ok
+2019-02-27_16:36:17 Hideki_30_1 batteryState: ok
+2019-02-27_16:36:17 Hideki_30_1 channel: 1
+2019-02-27_16:36:17 Hideki_30_1 temperature: 23.2
+2019-02-27_16:36:17 Hideki_30_1 package_number: 1
+2019-02-27_16:36:17 Hideki_30_1 humidity: 32
+2019-02-27_16:36:17 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_16:43:28 Hideki_30_1 T: 22.5 H: 34
+2019-02-27_16:43:28 Hideki_30_1 battery: ok
+2019-02-27_16:43:28 Hideki_30_1 batteryState: ok
+2019-02-27_16:43:28 Hideki_30_1 channel: 1
+2019-02-27_16:43:28 Hideki_30_1 temperature: 22.5
+2019-02-27_16:43:28 Hideki_30_1 package_number: 3
+2019-02-27_16:43:28 Hideki_30_1 humidity: 34
+2019-02-27_16:43:28 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_16:46:20 Hideki_30_1 T: 22.3 H: 34
+2019-02-27_16:46:20 Hideki_30_1 temperature: 22.3
+2019-02-27_16:49:12 Hideki_30_1 T: 22 H: 34
+2019-02-27_16:49:12 Hideki_30_1 battery: ok
+2019-02-27_16:49:12 Hideki_30_1 batteryState: ok
+2019-02-27_16:49:12 Hideki_30_1 channel: 1
+2019-02-27_16:49:12 Hideki_30_1 temperature: 22
+2019-02-27_16:49:12 Hideki_30_1 package_number: 3
+2019-02-27_16:49:12 Hideki_30_1 humidity: 34
+2019-02-27_16:49:12 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_16:52:47 Hideki_30_1 T: 21.7 H: 34
+2019-02-27_16:52:47 Hideki_30_1 temperature: 21.7
+2019-02-27_17:06:23 Hideki_30_1 T: 20.8 H: 34
+2019-02-27_17:06:23 Hideki_30_1 battery: ok
+2019-02-27_17:06:23 Hideki_30_1 batteryState: ok
+2019-02-27_17:06:23 Hideki_30_1 channel: 1
+2019-02-27_17:06:23 Hideki_30_1 temperature: 20.8
+2019-02-27_17:06:23 Hideki_30_1 package_number: 1
+2019-02-27_17:06:23 Hideki_30_1 humidity: 34
+2019-02-27_17:06:23 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_17:09:59 Hideki_30_1 T: 20.6 H: 34
+2019-02-27_17:09:59 Hideki_30_1 temperature: 20.6
+2019-02-27_17:09:59 Hideki_30_1 package_number: 3
+2019-02-27_17:10:41 Hideki_30_1 T: 20.5 H: 34
+2019-02-27_17:10:41 Hideki_30_1 temperature: 20.5
+2019-02-27_17:10:41 Hideki_30_1 package_number: 1
+2019-02-27_17:14:16 Hideki_30_1 T: 20.3 H: 34
+2019-02-27_17:14:16 Hideki_30_1 battery: ok
+2019-02-27_17:14:16 Hideki_30_1 batteryState: ok
+2019-02-27_17:14:16 Hideki_30_1 channel: 1
+2019-02-27_17:14:16 Hideki_30_1 temperature: 20.3
+2019-02-27_17:14:16 Hideki_30_1 humidity: 34
+2019-02-27_17:14:16 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_17:17:08 Hideki_30_1 T: 20.2 H: 34
+2019-02-27_17:17:08 Hideki_30_1 temperature: 20.2
+2019-02-27_17:17:08 Hideki_30_1 package_number: 1
+2019-02-27_17:19:17 Hideki_30_1 T: 20 H: 34
+2019-02-27_17:19:17 Hideki_30_1 battery: ok
+2019-02-27_17:19:17 Hideki_30_1 batteryState: ok
+2019-02-27_17:19:17 Hideki_30_1 channel: 1
+2019-02-27_17:19:17 Hideki_30_1 temperature: 20
+2019-02-27_17:19:17 Hideki_30_1 humidity: 34
+2019-02-27_17:19:17 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_17:20:44 Hideki_30_1 T: 19.9 H: 34
+2019-02-27_17:20:44 Hideki_30_1 temperature: 19.9
+2019-02-27_17:20:44 Hideki_30_1 package_number: 3
+2019-02-27_17:21:26 Hideki_30_1 package_number: 1
+2019-02-27_17:22:10 Hideki_30_1 T: 19.8 H: 34
+2019-02-27_17:22:10 Hideki_30_1 temperature: 19.8
+2019-02-27_17:22:10 Hideki_30_1 package_number: 3
+2019-02-27_17:27:10 Hideki_30_1 T: 19.6 H: 34
+2019-02-27_17:27:10 Hideki_30_1 battery: ok
+2019-02-27_17:27:10 Hideki_30_1 batteryState: ok
+2019-02-27_17:27:10 Hideki_30_1 channel: 1
+2019-02-27_17:27:10 Hideki_30_1 temperature: 19.6
+2019-02-27_17:27:10 Hideki_30_1 package_number: 1
+2019-02-27_17:27:10 Hideki_30_1 humidity: 34
+2019-02-27_17:27:10 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_17:30:02 Hideki_30_1 T: 19.4 H: 34
+2019-02-27_17:30:02 Hideki_30_1 temperature: 19.4
+2019-02-27_17:30:03 Hideki_30_1 package_number: 3
+2019-02-27_17:49:24 Hideki_30_1 T: 17.9 H: 34
+2019-02-27_17:49:24 Hideki_30_1 battery: ok
+2019-02-27_17:49:24 Hideki_30_1 batteryState: ok
+2019-02-27_17:49:24 Hideki_30_1 channel: 1
+2019-02-27_17:49:24 Hideki_30_1 temperature: 17.9
+2019-02-27_17:49:24 Hideki_30_1 package_number: 3
+2019-02-27_17:49:24 Hideki_30_1 humidity: 34
+2019-02-27_17:49:24 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_17:50:06 Hideki_30_1 package_number: 1
+2019-02-27_17:50:07 Hideki_30_1 package_number: 3
+2019-02-27_17:52:58 Hideki_30_1 T: 17.6 H: 34
+2019-02-27_17:52:58 Hideki_30_1 temperature: 17.6
+2019-02-27_17:52:58 Hideki_30_1 package_number: 1
+2019-02-27_18:05:52 Hideki_30_1 T: 16.6 H: 34
+2019-02-27_18:05:52 Hideki_30_1 battery: ok
+2019-02-27_18:05:52 Hideki_30_1 batteryState: ok
+2019-02-27_18:05:52 Hideki_30_1 channel: 1
+2019-02-27_18:05:52 Hideki_30_1 temperature: 16.6
+2019-02-27_18:05:52 Hideki_30_1 package_number: 1
+2019-02-27_18:05:52 Hideki_30_1 humidity: 34
+2019-02-27_18:05:52 Hideki_30_1 comfort_level: Dry. Less than 40% RH
+2019-02-27_18:05:53 Hideki_30_1 package_number: 3
